@@ -1,0 +1,15 @@
+{
+  "name": "nhsd-jwt",
+  "version": "1.0.0",
+  "description": "Given credentials it gets access_token for unattended access",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jalal Hosseini",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "docopt": "^0.6.2"
+  }
+}

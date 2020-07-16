@@ -11,5 +11,5 @@ jobs:
         uses: elgohr/Publish-Docker-Github-Action@master
         with:
           name: artronics/nhsd-jwt-docker
-          username: ${{ secrets.DOCKER_USERNAME }}
+          username: artronics
           password: ${{ secrets.DOCKER_PASSWORD }}

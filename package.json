@@ -9,7 +9,7 @@
   "author": "Jalal Hosseini",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "docopt": "^0.6.2"
   }
 }
